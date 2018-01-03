@@ -1,5 +1,5 @@
 {
-    "name": "softrog/php-json-schema-phpdoc",
+    "name": "letgoapp/php-json-schema-phpdoc",
     "description": "@phpdoc extension php-json-schema for IDE autocomplete",
     "type": "doc",
     "license": "MIT",
